@@ -1,6 +1,6 @@
-# flutterapp1
+# RCET Mess Automation System
 
-A new Flutter application.
+A Flutter Mobile Application.
 
 ## Getting Started
 
